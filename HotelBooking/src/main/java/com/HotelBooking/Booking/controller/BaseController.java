@@ -10,5 +10,10 @@ public class BaseController {
 	public String home() {
 		return "Home";
 	}
+	
+	@GetMapping("/login")
+	public String login() {
+		return "Home";
+	}
 
 }
