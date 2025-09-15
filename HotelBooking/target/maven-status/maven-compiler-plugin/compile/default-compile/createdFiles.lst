@@ -1,0 +1,3 @@
+com\HotelBooking\Booking\BookingApplication.class
+com\HotelBooking\Booking\model\BookedRoom.class
+com\HotelBooking\Booking\repository\BoookingRepository.class
